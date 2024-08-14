@@ -85,9 +85,10 @@ const HeroBanner = memo(() => {
         <svg
           version="1.1"
           xmlns="http://www.w3.org/2000/svg"
-          width="900"
+          // width="900"
+          // width="500"
           height="250"
-          viewBox="0 20 900 250"
+          // viewBox="0 20 900 250"
           className={styles.svg}
         >
           <text
